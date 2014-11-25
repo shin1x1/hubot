@@ -1,5 +1,5 @@
 # Description:
-#   sample script
+#   jenkins build script
 JENKINS_BASIC_AUTH_USER = process.env.JENKINS_BASIC_AUTH_USER
 JENKINS_BASIC_AUTH_PASS = process.env.JENKINS_BASIC_AUTH_PASS
 JENKINS_URL = process.env.JENKINS_URL
